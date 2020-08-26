@@ -3,16 +3,16 @@
 
 ### leetcode problem submissions
 ---
-[https://leetcode.com/problems/contains-duplicate/]
+[https://leetcode.com/problems/contains-duplicate/]  
 contains-duplicate.py
 ---
-[https://leetcode.com/problems/add-two-numbers/]
+[https://leetcode.com/problems/add-two-numbers/]  
 add-two-numbers.py
 ---
-[https://leetcode.com/problems/two-sum/]
+[https://leetcode.com/problems/two-sum/]  
 two-sum.py
 ---
-[https://leetcode.com/problems/implement-queue-using-stacks/]
+[https://leetcode.com/problems/implement-queue-using-stacks/]  
 implement-queue-using-stacks.py
 ---
 
