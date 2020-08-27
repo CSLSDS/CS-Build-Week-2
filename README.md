@@ -15,7 +15,7 @@ two-sum.py
 [https://leetcode.com/problems/implement-queue-using-stacks/]  
 implement-queue-using-stacks.py
 ---
-[https://leetcode.com/problems/merge-two-sorted-lists/]
+[https://leetcode.com/problems/merge-two-sorted-lists/]  
 merge-two-sorted-lists.py
 ---
 
