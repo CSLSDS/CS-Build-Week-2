@@ -3,21 +3,21 @@
 
 ### leetcode problem submissions  
 ---  
-[https://leetcode.com/problems/contains-duplicate/]  
 [contains-duplicate.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/contains-duplicate.py "contains-duplicate.py")  
+[https://leetcode.com/problems/contains-duplicate/]   
 ---  
-[https://leetcode.com/problems/add-two-numbers/]  
 [add-two-numbers.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/add-two-numbers.py "add-two-numbers.py")  
+[https://leetcode.com/problems/add-two-numbers/]  
 ---  
-[https://leetcode.com/problems/two-sum/]  
 [two-sum.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/two-sum.py "two-sum.py")  
+[https://leetcode.com/problems/two-sum/]  
 ---  
-[https://leetcode.com/problems/implement-queue-using-stacks/]  
 [implement-queue-using-stacks.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/implement-queue-using-stacks.py "implement-queue-using-stacks.py")  
+[https://leetcode.com/problems/implement-queue-using-stacks/]  
 ---  
-[https://leetcode.com/problems/merge-two-sorted-lists/]  
 [merge-two-sorted-lists.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/merge-two-sorted-lists.py "merge-two-sorted-lists.py")  
+[https://leetcode.com/problems/merge-two-sorted-lists/]  
 ---  
-[https://leetcode.com/problems/decode-string/]  
 [decode-string.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/decode-string.py "decode-string.py")  
+[https://leetcode.com/problems/decode-string/]   
 ---  
