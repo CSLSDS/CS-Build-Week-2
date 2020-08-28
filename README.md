@@ -7,11 +7,11 @@
 > [https://leetcode.com/problems/contains-duplicate/]  
 >> Given an array of integers, find if the array contains any duplicates.
 >> 
->> Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
+>> Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.  
 >> 
 >> Example 1:
 >> 
->> Input: [1,2,3,1]
+>> Input: [1,2,3,1]  
 >> Output: true  
 
 ## [add-two-numbers.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/add-two-numbers.py "add-two-numbers.py")   📙medium  
@@ -22,8 +22,8 @@
 >> 
 >> Example:
 >> 
->> Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
->> Output: 7 -> 0 -> 8
+>> Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)  
+>> Output: 7 -> 0 -> 8  
 >> Explanation: 342 + 465 = 807.  
 
 ## [two-sum.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/two-sum.py "two-sum.py")  📗easy  
@@ -36,26 +36,26 @@
 >> 
 >> Example 1:
 >> 
->> Input: nums = [2,7,11,15], target = 9
->> Output: [0,1]
+>> Input: nums = [2,7,11,15], target = 9  
+>> Output: [0,1]  
 >> Output: Because nums[0] + nums[1] == 9, we return [0, 1]  
 
 ## [implement-queue-using-stacks.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/implement-queue-using-stacks.py "implement-queue-using-stacks.py")  📗easy  
 > [https://leetcode.com/problems/implement-queue-using-stacks/]  
 >> Implement the following operations of a queue using stacks.
 >> 
->> push(x) -- Push element x to the back of queue.
->> pop() -- Removes the element from in front of queue.
->> peek() -- Get the front element.
->> empty() -- Return whether the queue is empty.
->> Example:
+>> push(x) -- Push element x to the back of queue.  
+>> pop() -- Removes the element from in front of queue.  
+>> peek() -- Get the front element.  
+>> empty() -- Return whether the queue is empty.  
+>> Example:  
 >> 
->> MyQueue queue = new MyQueue();
+>> MyQueue queue = new MyQueue();  
 >> 
->> queue.push(1);
+>> queue.push(1);  
 >> queue.push(2);  
->> queue.peek();  // returns 1
->> queue.pop();   // returns 1
+>> queue.peek();  // returns 1  
+>> queue.pop();   // returns 1  
 >> queue.empty(); // returns false  
 
 ## [merge-two-sorted-lists.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/merge-two-sorted-lists.py "merge-two-sorted-lists.py")  📗easy  
@@ -64,7 +64,7 @@
 >> 
 >> Example:
 >> 
->> Input: 1->2->4, 1->3->4
+>> Input: 1->2->4, 1->3->4  
 >> Output: 1->1->2->3->4->4  
 
 ## [decode-string.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/decode-string.py "decode-string.py")  📙medium  
@@ -79,5 +79,5 @@
 >> 
 >> Example 1:
 >> 
->> Input: s = "3[a]2[bc]"
+>> Input: s = "3[a]2[bc]"  
 >> Output: "aaabcbc"  
