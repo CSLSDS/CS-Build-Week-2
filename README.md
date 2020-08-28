@@ -3,7 +3,7 @@
 
 ### leetcode problem submissions  
 ---
-## [contains-duplicate.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/contains-duplicate.py "contains-duplicate.py")  easy  
+## [contains-duplicate.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/contains-duplicate.py "contains-duplicate.py")  📗easy  
 > [https://leetcode.com/problems/contains-duplicate/]  
 >> Given an array of integers, find if the array contains any duplicates.
 >> 
@@ -14,7 +14,7 @@
 >> Input: [1,2,3,1]
 >> Output: true  
 
-## [add-two-numbers.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/add-two-numbers.py "add-two-numbers.py")   medium  
+## [add-two-numbers.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/add-two-numbers.py "add-two-numbers.py")   📙medium  
 > [https://leetcode.com/problems/add-two-numbers/]  
 >> You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 >> 
@@ -26,7 +26,7 @@
 >> Output: 7 -> 0 -> 8
 >> Explanation: 342 + 465 = 807.  
 
-## [two-sum.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/two-sum.py "two-sum.py")  easy  
+## [two-sum.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/two-sum.py "two-sum.py")  📗easy  
 > [https://leetcode.com/problems/two-sum/]  
 >> Given an array of integers nums and and integer target, return the indices of the two numbers such that they add up to target.
 >> 
@@ -40,7 +40,7 @@
 >> Output: [0,1]
 >> Output: Because nums[0] + nums[1] == 9, we return [0, 1]  
 
-## [implement-queue-using-stacks.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/implement-queue-using-stacks.py "implement-queue-using-stacks.py")  easy  
+## [implement-queue-using-stacks.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/implement-queue-using-stacks.py "implement-queue-using-stacks.py")  📗easy  
 > [https://leetcode.com/problems/implement-queue-using-stacks/]  
 >> Implement the following operations of a queue using stacks.
 >> 
@@ -58,7 +58,7 @@
 >> queue.pop();   // returns 1
 >> queue.empty(); // returns false  
 
-## [merge-two-sorted-lists.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/merge-two-sorted-lists.py "merge-two-sorted-lists.py")  easy  
+## [merge-two-sorted-lists.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/merge-two-sorted-lists.py "merge-two-sorted-lists.py")  📗easy  
 > [https://leetcode.com/problems/merge-two-sorted-lists/]  
 >> Merge two sorted linked lists and return it as a new sorted list. The new list should be made by splicing together the nodes of the first two lists.
 >> 
@@ -67,7 +67,7 @@
 >> Input: 1->2->4, 1->3->4
 >> Output: 1->1->2->3->4->4  
 
-## [decode-string.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/decode-string.py "decode-string.py")  medium  
+## [decode-string.py](https://github.com/CSLSDS/CS-Build-Week-2/blob/cs/decode-string.py "decode-string.py")  📙medium  
 > [https://leetcode.com/problems/decode-string/]   
 >> Given an encoded string, return its decoded string.
 >> 
